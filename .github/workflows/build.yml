@@ -108,6 +108,7 @@ jobs:
 
           # Goke [GK7205V500]
           - gk7205v500_lite
+          - gk7205v500_ultimate
 
           # Allwinner
           - v851s_lite
